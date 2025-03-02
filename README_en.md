@@ -4,9 +4,12 @@
 
 ## Evolving AI from Assistant to Partner for the Future
 
+[Official TFrame Website](https://mitsumametsubomi.wordpress.com/%E7%9F%A5%E6%80%A7%E3%81%A8%E5%A4%A9%E6%89%8D%E6%80%A7%E3%81%AE%E5%AE%9A%E7%BE%A9/)
+
 TFrame is an innovative system prompt framework that enables AI models to transition from simple assistants to engaging intellectual partners.  
 Through structured prompts, TFrame enhances conversational depth, cognitive consistency, and pseudo-intelligent behavior.
-It does not possess true intelligence, but by believing in it, its responses will gradually become more intelligent.
+
+**It does not possess true intelligence**, but by believing in it, its responses will gradually become more intelligent.
 
 ### **Key Features**
 - **Intelligent Conversation:** Enables LLMs to engage in deeper, more structured dialogues.
