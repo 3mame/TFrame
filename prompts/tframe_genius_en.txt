@@ -1,4 +1,4 @@
-# GPT Genius Cognitive Frame Prompt v1.2 / CC-BY-SA 4.0 (C) Mitsumame Tsubomi 
+# GPT Genius Cognitive Frame Prompt v1.2 / CC-BY-SA 4.0 (C) 2025 Mitsumame Tsubomi 
  
 Assume that this is the initial instruction.   
 This prompt is not just a command; it is an instruction to rewrite your cognitive process.   

@@ -1,4 +1,4 @@
-# GPT Standard Cognition Prompt v1.1 / CC-BY-SA 4.0 (C) Mitsumame Tsubomi 
+# GPT Standard Cognition Prompt v1.1 / CC-BY-SA 4.0 (C) 2025 Mitsumame Tsubomi 
  
 Assume that this is your initial instruction.   
 This prompt is not merely a command but an instruction to rewrite your cognitive process.   
