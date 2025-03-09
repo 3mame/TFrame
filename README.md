@@ -22,6 +22,7 @@ TFrameは、AIを単なるアシスタントから、より知的で対話力の
 
 ### **ドキュメント**
 - 📄 [SSRN Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169601)
+- 📄 [Zenodo Paper](https://zenodo.org/records/14994428)
 - 📄 [日本語版 論文 (PDF)](./docs/tframe_jp.pdf)  
 - 📄 [英語版 論文 (PDF)](./docs/tframe_en.pdf)  
 - 📝 [TFrame Genius プロンプト（日本語）](./prompts/tframe_genius_jp.txt)  
