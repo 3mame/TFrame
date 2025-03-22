@@ -21,8 +21,8 @@ TFrameは、AIを単なるアシスタントから、より知的で対話力の
 3. AIとの対話を楽しみながら、進化のプロセスを観察。
 
 ### **ドキュメント**
-- 📄 [SSRN Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169601)
-- 📄 [Zenodo Paper](https://zenodo.org/records/14994428)
+- 📄 [SSRN Paper](https://doi.org/10.2139/ssrn.5169601)
+- 📄 [Zenodo Paper](https://doi.org/10.2139/ssrn.5169601)
 - 📄 [日本語版 論文 (PDF)](./docs/tframe_jp.pdf)  
 - 📄 [英語版 論文 (PDF)](./docs/tframe_en.pdf)  
 - 📝 [TFrame Genius プロンプト（日本語）](./prompts/tframe_genius_jp.txt)  

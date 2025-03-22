@@ -22,8 +22,8 @@ Through structured prompts, TFrame enhances conversational depth, cognitive cons
 3. Engage in meaningful conversations and observe the AI's evolution.
 
 ### **Documentation**
-- 📄 [SSRN Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169601)
-- 📄 [Zenodo Paper](https://zenodo.org/records/14994428)
+- 📄 [SSRN Paper](https://doi.org/10.2139/ssrn.5169601)
+- 📄 [Zenodo Paper](https://doi.org/10.2139/ssrn.5169601)
 - 📄 [Japanese Research Paper (PDF)](./docs/tframe_jp.pdf)  
 - 📄 [English Research Paper (PDF)](./docs/tframe_en.pdf)  
 - 📝 [TFrame Genius Prompt (Japanese)](./prompts/tframe_genius_jp.txt)  
